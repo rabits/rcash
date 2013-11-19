@@ -1,0 +1,4 @@
+rcash
+=====
+
+Simple cash program
